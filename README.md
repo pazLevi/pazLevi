@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 <div style='list-style-type: none;  display:flex; justify-content:center; align-items:center; flex-direction:column'>
   <div style='margin-bottom:12px'>
     <a href="https://github.com/pazLevi/pazLevi">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonGrn&hide=c%2B%2B,c%23&theme=cobalt&langs_count=5&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pazLevi&hide=c%2B%2B,c%23&theme=cobalt&langs_count=5&layout=compact" />
     </a>
   </div>
   <hr>
   <div>
     <a href="https://github.com/pazLevi/pazLevi">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeonGrn&show_icons=true&line_height=27&count_private=true&hide=stars&theme=cobalt" alt="Paz Levi's GitHub Stats" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=pazLevi&show_icons=true&line_height=27&count_private=true&hide=stars&theme=cobalt" alt="Paz Levi's GitHub Stats" />
     </a>
   </div>
 </div>
