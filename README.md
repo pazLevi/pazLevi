@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 <h3 style="text-align:center;"> 🔧 Some Of The Tools I'm Using 🔧</h3>
-<hr>
+<!-- <hr>
 <div style='display:flex; justify-content:space-between; align-items:center;'>
   
 <img alt="Python" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <hr>
 
 </div>
-
+ -->
 
 <div style='list-style-type: none;  display:flex; justify-content:center; align-items:center; flex-direction:column'>
   <div style='margin-bottom:12px'>
